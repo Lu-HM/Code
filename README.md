@@ -1,2 +1,2 @@
-# Main
-by-LHM
+# Code
+first repository by LHM
